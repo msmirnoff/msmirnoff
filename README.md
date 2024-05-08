@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Thank you for checking out my Github profile!
+
+I am a cyber security professional and university lecturer, based in Adelaide, Australia.
+
+I'm working on integrating modern tech into academic methods (i.e. AI, Cloud, containers, etc), and write about various security topics.
+
 <!--
 **msmirnoff/msmirnoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
